@@ -1,0 +1,6 @@
+{
+  "name": "SalesPulse",
+  "description": "SalesPulse is an Enterprise Sleek corporate dashboard for managing high-performing sales teams, real-time data aggregation, automated lead generation, and executive product strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
